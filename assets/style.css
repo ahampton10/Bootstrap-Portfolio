@@ -84,7 +84,7 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
-  color: #4aaaa5;
+ 
 }
 
 nav a {
@@ -92,7 +92,6 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #4aaaa5;
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
@@ -128,7 +127,7 @@ h3, h2 {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
   float: left; 
-  image: 
+ 
 }
 
 .main-section {
@@ -271,4 +270,3 @@ font-size: 18px;
     position: center; 
   }
   }
-}
